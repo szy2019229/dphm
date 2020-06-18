@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/mall_manager" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/simple-mall-api-master" vcs="Git" />
   </component>
 </project>
